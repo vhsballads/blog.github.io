@@ -5,8 +5,6 @@ date:   2025-09-01 00:00:00 -0600
 categories: essays
 permalink: /20250901/
 ---
-!['Festival' by Banksy, 2006.](https://banksyexplained.com/wp-content/uploads/2021/05/FESTIVAL-TATE-WARD-AUCTIONS-24-MARCH-2021.jpg)
-
 Advertisements play a significant role in the daily lives of consumers,
 despite being passive elements of the consumer’s surroundings for the
 most part. While advertisements are perceived as purely promotional
@@ -15,6 +13,8 @@ advantage of the consumers’ needs and emotions in order to entice
 their attention. In “Branded For Life,” Andy Beckett reviews and presents
 the argument that consumption is not intended to evoke a sense of
 conformity for the consumer, but rather a sense of distinction.
+
+!['Festival' by Banksy, 2006.](https://banksyexplained.com/wp-content/uploads/2021/05/FESTIVAL-TATE-WARD-AUCTIONS-24-MARCH-2021.jpg)
 
 He portrays the rise of counter-consumerist movements in the late 20th
 century, citing as hippies and environmentalists, and argues that in
