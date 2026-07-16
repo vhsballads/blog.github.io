@@ -15,7 +15,7 @@ enjoy your stay, or don't. this is in significant development right now, so chec
 
 ///
 
-<ul>
+<ul markdown="0">
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
